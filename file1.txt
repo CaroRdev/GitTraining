@@ -9,3 +9,6 @@ maintenant, je viens de le recuperer en local, je le modifie pour le renvoyer au
 nouvelle expérience, ne pas interrompre un push dans le bash en fermant la fenetre, car cela n'annule pas tout, cela laisse des fichiers dans .git et il est alors impossible de refaire le push. la solution a été de chercher les fichiers dans le .git et de supprimer ceux correspondant au push avorté
 
 le dernier commit ligne 9 n'est pas detecté en local, raison possible: la suppression de fichier evoqué l.9
+
+
+Le probleme semble resolu
