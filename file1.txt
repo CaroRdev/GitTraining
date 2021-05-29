@@ -3,3 +3,5 @@ test git
 2905 push du commit dans GitTraining
 le file1 du dossier local "project1" ou j'ai fait get init a été pushé dans "gittraining"
 l'objectif est atteint à ceci pret que je pensais pusher tout projet1 dans "gittraining"
+
+maintenant, je viens de le recuperer en local, je le modifie pour le renvoyer au remote
